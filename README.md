@@ -10,3 +10,4 @@ iii. Repo
 A Github Repository is basically a project that holds all the files needed.
 
 iv. Commit
+Like a "save" button. You commit any changes you made to the file. Each commit can have a note to it, using the description.
